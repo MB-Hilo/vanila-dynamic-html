@@ -1,5 +1,7 @@
 # vanila-dynamic-html
-Playing around with creating HTML elements with createElement and functional composition
+Playing around with creating HTML elements with createElement and functional composition.
+
+Using map, reduce, filter and functional programming to build HTML layout.
 
 # [![Web Starter Kit](https://cloud.githubusercontent.com/assets/110953/11445049/f05512ba-9520-11e5-8fdb-8c8eb5f690d0.jpg)](https://github.com/google/web-starter-kit/releases/latest)
 
